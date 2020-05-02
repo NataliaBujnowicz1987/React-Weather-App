@@ -1,7 +1,7 @@
 ###### Search bar connected with SQL database.
-![photos-github](photos-github/index.png)
+![photos-github](img-github/react weather app.png)
 
-
+![img-github](img-github/react weather app.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

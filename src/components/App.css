@@ -1,0 +1,29 @@
+.app input, .app button {
+    margin: 20px;
+    padding: 10px 20px;
+    border: 2px solid gray;
+    background-color: #fff;
+    transition: .8s linear;
+}
+
+.app button {
+    cursor: pointer;
+}
+
+.app button:hover {
+    background-color: #000;
+    color: white;
+    border-color: #000;
+}
+
+.app {
+    text-align: center;
+    overflow: hidden;
+}
+
+/* RESPONSIVE DESIGN */
+@media (max-width: 1025px) {
+    .app input, .app button {
+        margin: 10px;
+    }
+}

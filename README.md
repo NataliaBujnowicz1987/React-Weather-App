@@ -1,7 +1,8 @@
-###### Search bar connected with SQL database.
-![photos-github](img-github/react weather app.png)
+## React.js - Weather App
+![photos-github](photos-github/react weather app.png)
 
-![img-github](img-github/react weather app.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -72,14 +73,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # test
-
-# React-Weather-App
-
-# xxxx
-
-# new
-
-# xxxx
 
 # React-Weather-App
 

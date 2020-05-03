@@ -1,5 +1,9 @@
 ## React.js - Weather App
-![photos-github](photos-github/react weather app.png)
+![photos-github](photos-github/img1.png)
+
+![photos-github](photos-github/img2.png)
+
+![photos-github](photos-github/img3.png)
 
 
 

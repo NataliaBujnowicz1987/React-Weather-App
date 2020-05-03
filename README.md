@@ -1,13 +1,22 @@
 ## React.js - Weather App
-![photos-github](photos-github/img1.png)
 
 ![photos-github](photos-github/img2.png)
 
+![photos-github](photos-github/img1.png)
+
 ![photos-github](photos-github/img3.png)
 
+##
+ "dependencies": {
+    "react": "^16.13.1",
+    "react-background-slider": "^2.0.0",
+    "react-dom": "^16.13.1",
+    "react-scripts": "2.1.8"
+  },
+  
+## Weather API - https://openweathermap.org/api
 
-
-
+##
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
